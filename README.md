@@ -1,1 +1,1 @@
-# -niversiteY-netimSistemi
+# UniversiteYonetimSistemi
